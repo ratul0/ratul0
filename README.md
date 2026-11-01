@@ -18,7 +18,7 @@ I'm a product engineer in Hamburg. For ten years I've built systems for logistic
 
 #### 🧰 Agent skills I use to ship them
 
-Building these products, I turned the parts I kept repeating into agent skills. They work in Claude Code, Cursor, Codex and any agent that reads `SKILL.md`.
+Building these products, I turned the parts I kept repeating into agent skills. They work in Claude Code, Cursor, Codex and any agent that reads `SKILL.md`. The full index is in [**ratul0/skills**](https://github.com/ratul0/skills).
 
 | Skill | What it does |
 |---|---|
