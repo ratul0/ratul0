@@ -11,8 +11,8 @@ I'm a product engineer in Hamburg. For ten years I've built systems for logistic
 | Product | What it is | Live |
 |---|---|---|
 | **[Baby Phone](https://apps.apple.com/sa/app/baby-phone-abc-123-games/id6823124937)** | iOS app: ABC & 123 games for toddlers (SwiftUI, StoreKit) | [![App Store](https://img.shields.io/badge/App_Store-live-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/sa/app/baby-phone-abc-123-games/id6823124937) |
-| **[B1 Atlas](https://b1atlas.com/)** | German exam prep and relocation planning for people moving to Germany | ![uptime](https://status.shopwiselane.com/api/badge/3/uptime/720) ![response](https://status.shopwiselane.com/api/badge/3/avg-response/720) |
-| **[SellEazyy](https://selleazyy.com/)** | StockPing and OrderPing: Shopify apps for inventory alerts and order notifications | ![uptime](https://status.shopwiselane.com/api/badge/4/uptime/720) ![response](https://status.shopwiselane.com/api/badge/4/avg-response/720) |
+| **[B1 Atlas](https://b1atlas.com/)** | German exam prep and relocation planning for people moving to Germany | ![uptime](https://status.shopwiselane.com/api/badge/3/uptime/720?label=uptime%2030d) ![response](https://status.shopwiselane.com/api/badge/3/avg-response/720?label=avg%20response%2030d) |
+| **[SellEazyy](https://selleazyy.com/)** | StockPing and OrderPing: Shopify apps for inventory alerts and order notifications | ![uptime](https://status.shopwiselane.com/api/badge/4/uptime/720?label=uptime%2030d) ![response](https://status.shopwiselane.com/api/badge/4/avg-response/720?label=avg%20response%2030d) |
 
 <sub>Uptime is the last 30 days, measured by my own [status page](https://status.shopwiselane.com/status/products).</sub>
 
