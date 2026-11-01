@@ -38,11 +38,11 @@ Starting a Shopify app? [**shopify-app-starter**](https://github.com/ratul0/shop
 
 #### ✍️ Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [Moving to pnpm and Volta: Enhancing Your Frontend Development Workflow](https://medium.com/@rats/moving-to-pnpm-and-volta-enhancing-your-frontend-development-workflow-6ae94cf37896?source=rss-c65fbf32831------2) <sub>Oct 2024</sub>
+<!-- BLOG-POST-LIST:START -->
+- [Moving to pnpm and Volta: Enhancing Your Frontend Development Workflow](https://medium.com/@rats/moving-to-pnpm-and-volta-enhancing-your-frontend-development-workflow-6ae94cf37896?source=rss-c65fbf32831------2) <sub>Oct 2024</sub>
 - [Learning how to learn and study effectively](https://medium.com/infancyit/learning-how-to-learn-and-study-effectively-7922ffa8de48?source=rss-c65fbf32831------2) <sub>May 2020</sub>
 - [Java Basics — How Java is understood by your machine](https://medium.com/@rats/java-basics-how-java-is-understood-by-your-machine-57161a212b85?source=rss-c65fbf32831------2) <sub>May 2019</sub>
-- [Save time with Postman Environment Variable](https://medium.com/infancyit/save-time-with-postman-environment-variable-f317916d7785?source=rss-c65fbf32831------2) <sub>Feb 2018</sub>
-<!-- BLOG-POST-LIST:END -->
+- [Save time with Postman Environment Variable](https://medium.com/infancyit/save-time-with-postman-environment-variable-f317916d7785?source=rss-c65fbf32831------2) <sub>Feb 2018</sub><!-- BLOG-POST-LIST:END -->
 
 #### 🛠 What I work with
 
