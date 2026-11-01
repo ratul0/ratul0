@@ -1,0 +1,24 @@
+# Refreshes the "Latest writing" list in README.md from the Medium RSS feed.
+# If Medium blocks the runner (it sometimes blocks CI IPs), the run changes nothing and the old list stays.
+name: Latest writing
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@rats"
+          max_post_count: 4
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "mmm yyyy"
+          commit_message: "chore: refresh latest writing"
